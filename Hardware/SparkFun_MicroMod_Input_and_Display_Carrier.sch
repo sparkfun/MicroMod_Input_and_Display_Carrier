@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -159,7 +159,7 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="no" active="no"/>
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="no"/>
 </layers>
-<schematic xreflabel="%F%N/%S" xrefpart="1_/%S.%C%R">
+<schematic xreflabel="%F%N/%S" xrefpart="/%S.%C%R">
 <libraries>
 <library name="SparkFun-MicroMod">
 <packages>
@@ -27091,7 +27091,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 <text x="83.82" y="83.82" size="1.27" layer="97" font="vector">7-bit Unshifted I2C Address: 0x6F</text>
 <text x="165.862" y="11.43" size="2.54" layer="94" font="vector">Alex Wende</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <wire x1="0" y1="78.74" x2="88.9" y2="78.74" width="0.2032" layer="97" style="longdash"/>
 <wire x1="88.9" y1="78.74" x2="147.32" y2="78.74" width="0.2032" layer="97" style="longdash"/>
 <wire x1="147.32" y1="78.74" x2="147.32" y2="35.56" width="0.2032" layer="97" style="longdash"/>
