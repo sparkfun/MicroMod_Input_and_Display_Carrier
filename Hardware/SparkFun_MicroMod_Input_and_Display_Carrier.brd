@@ -45,7 +45,7 @@
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -172,11 +172,11 @@
 <text x="21.59" y="0.889" size="1.016" layer="16" font="vector" ratio="20" rot="MR0" align="center">v10</text>
 <text x="38.354" y="-23.495" size="1.778" layer="51" font="vector" align="center">Alex Wende</text>
 <dimension x1="0" y1="0" x2="57.15" y2="0" x3="28.575" y3="-10.16" textsize="1.778" layer="47" unit="inch" visible="yes"/>
-<dimension x1="7.62" y1="11.43" x2="0" y2="11.43" x3="3.81" y3="-3.81" textsize="1.778" layer="47" unit="inch"/>
-<dimension x1="7.62" y1="11.43" x2="7.62" y2="0" x3="-2.54" y3="5.715" textsize="1.778" layer="47" unit="inch"/>
-<dimension x1="31.75" y1="11.43" x2="49.53" y2="11.43" x3="40.64" y3="-3.81" textsize="1.778" layer="47" unit="inch"/>
-<dimension x1="49.53" y1="11.43" x2="57.15" y2="11.43" x3="53.34" y3="-3.81" textsize="1.778" layer="47" unit="inch"/>
-<dimension x1="31.75" y1="11.43" x2="7.62" y2="11.43" x3="19.685" y3="-3.81" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="7.62" y1="12.065" x2="0" y2="12.065" x3="3.81" y3="-3.175" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="7.62" y1="12.065" x2="7.62" y2="0" x3="-2.54" y3="6.0325" textsize="1.778" layer="47" unit="inch" precision="3"/>
+<dimension x1="40.64" y1="12.065" x2="49.276" y2="12.065" x3="44.958" y3="-3.175" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="49.276" y1="12.065" x2="57.15" y2="12.065" x3="53.213" y3="-3.174996875" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="40.64" y1="12.065" x2="7.62" y2="12.065" x3="24.13" y3="-3.175" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="0" y1="0" x2="0" y2="82.55" x3="-6.35" y3="41.275" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="3.81" y1="80.01" x2="3.81" y2="82.55" x3="-2.54" y3="81.28" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="3.81" y1="80.01" x2="0" y2="80.01" x3="1.905" y3="91.44" textsize="1.778" layer="47" unit="inch"/>
@@ -186,6 +186,7 @@
 <vertex x="6.858" y="17.145" curve="90"/>
 <vertex x="7.493" y="16.51" curve="90"/>
 </polygon>
+<dimension x1="49.276" y1="12.065" x2="49.276" y2="0" x3="62.23" y3="6.0325" textsize="1.778" textratio="15" layer="47" unit="inch" precision="3"/>
 </plain>
 <libraries>
 <library name="SparkFun-Jumpers">
@@ -9513,7 +9514,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="51.34" y1="56.08" x2="44.269" y2="56.08" width="0.2032" layer="16"/>
 <wire x1="44.269" y1="56.08" x2="43.307" y2="55.118" width="0.2032" layer="16"/>
 </signal>
-<signal name="SD_!CS">
+<signal name="!SD_CS">
 <contactref element="J1" pad="70"/>
 <contactref element="J2" pad="CS"/>
 <wire x1="37.118" y1="45.5" x2="36.575" y2="44.957" width="0.2032" layer="16"/>
@@ -9527,7 +9528,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="45.72" y1="47.879" x2="43.341" y2="45.5" width="0.2032" layer="16"/>
 <wire x1="43.341" y1="45.5" x2="37.118" y2="45.5" width="0.2032" layer="16"/>
 </signal>
-<signal name="DISP_!CS">
+<signal name="!DISP_CS">
 <contactref element="J1" pad="10"/>
 <contactref element="J5" pad="32"/>
 <contactref element="R4" pad="1"/>
@@ -9562,7 +9563,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="34.225" y1="55.561" x2="34.163" y2="55.499" width="0.2032" layer="16"/>
 <wire x1="25.273" y1="33.02" x2="23.575" y2="31.322" width="0.2032" layer="16"/>
 </signal>
-<signal name="DISP_BL">
+<signal name="!DISP_BL">
 <contactref element="J1" pad="32"/>
 <wire x1="26.67" y1="29.718" x2="27.075" y2="29.313" width="0.2032" layer="16"/>
 <wire x1="27.075" y1="29.313" x2="27.075" y2="25.135" width="0.2032" layer="16"/>
@@ -10413,7 +10414,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="D8" pad="P1"/>
 <wire x1="2.06" y1="65.87" x2="2.06" y2="69.29" width="0.2032" layer="1"/>
 </signal>
-<signal name="DISP_!RST">
+<signal name="!DISP_RST">
 <contactref element="J5" pad="34"/>
 <contactref element="J1" pad="44"/>
 <wire x1="37.465" y1="51.982" x2="36.664" y2="51.982" width="0.2032" layer="16"/>

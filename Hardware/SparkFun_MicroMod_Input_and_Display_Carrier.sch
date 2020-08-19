@@ -26585,7 +26585,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
-<text x="83.82" y="83.82" size="1.27" layer="97" font="vector">7-bit Unshifted I2C Address: 0x6F</text>
+<text x="83.82" y="83.82" size="1.27" layer="97" font="vector">7-bit Unshifted I2C Address: 0x71</text>
 <text x="165.862" y="11.43" size="2.54" layer="94" font="vector">Alex Wende</text>
 <text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <wire x1="0" y1="78.74" x2="88.9" y2="78.74" width="0.2032" layer="97" style="longdash"/>
@@ -26907,7 +26907,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="58.42" y="35.56" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 </net>
-<net name="SD_!CS" class="0">
+<net name="!SD_CS" class="0">
 <segment>
 <pinref part="J1" gate="J1" pin="SPI_!CS!/SDIO_DATA3"/>
 <wire x1="231.14" y1="154.94" x2="233.68" y2="154.94" width="0.1524" layer="91"/>
@@ -26923,7 +26923,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <junction x="104.14" y="50.8"/>
 </segment>
 </net>
-<net name="DISP_!CS" class="0">
+<net name="!DISP_CS" class="0">
 <segment>
 <pinref part="J1" gate="J1" pin="D0"/>
 <wire x1="231.14" y1="127" x2="233.68" y2="127" width="0.1524" layer="91"/>
@@ -26951,7 +26951,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="58.42" y="38.1" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 </net>
-<net name="DISP_BL" class="0">
+<net name="!DISP_BL" class="0">
 <segment>
 <pinref part="J1" gate="J1" pin="PWM0"/>
 <wire x1="231.14" y1="132.08" x2="233.68" y2="132.08" width="0.1524" layer="91"/>
@@ -27519,7 +27519,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="137.16" y1="162.56" x2="142.24" y2="162.56" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="DISP_!RST" class="0">
+<net name="!DISP_RST" class="0">
 <segment>
 <pinref part="J5" gate="G$1" pin="RESET"/>
 <label x="76.2" y="45.72" size="1.27" layer="95" font="vector" xref="yes"/>
