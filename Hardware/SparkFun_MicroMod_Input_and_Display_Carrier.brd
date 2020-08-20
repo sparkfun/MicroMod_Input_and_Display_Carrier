@@ -9377,7 +9377,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="LOGO3" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="6.332" y="44.902" smashed="yes" rot="MR90"/>
 <element name="U$2" library="output" package="INPUT_AND_DISPLAY0" value="" x="29.21" y="17.78" smashed="yes"/>
 <element name="U$5" library="output" package="#A#0" value="" x="40.64" y="8.001" smashed="yes"/>
-<element name="U$6" library="output" package="#B#0" value="" x="49.149" y="8.001" smashed="yes"/>
+<element name="U$6" library="output" package="#B#0" value="" x="49.276" y="8.001" smashed="yes"/>
 <element name="U$7" library="output" package="00" value="" x="3.937" y="28.21" smashed="yes"/>
 <element name="U$8" library="output" package="50" value="" x="3.937" y="76.089" smashed="yes"/>
 <element name="U$3" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="" x="36.195" y="20.574" smashed="yes"/>

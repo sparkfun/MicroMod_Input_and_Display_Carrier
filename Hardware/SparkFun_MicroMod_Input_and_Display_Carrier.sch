@@ -27655,6 +27655,8 @@ mircomod control of 3.3V LDO</text>
 <text x="134.62" y="111.76" size="2.54" layer="94" font="vector" align="center">Buzzer</text>
 <text x="218.44" y="111.76" size="2.54" layer="94" font="vector" align="center">IO Connector</text>
 <text x="162.56" y="177.8" size="1.778" layer="97" font="vector" align="center">6V Max</text>
+<text x="185.42" y="177.8" size="1.778" layer="97">Cut the MEAS jumper to measure
+the current on the 3.3V power rail.</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0" smashed="yes"/>
