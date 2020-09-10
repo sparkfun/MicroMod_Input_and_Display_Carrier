@@ -435,76 +435,76 @@ Out</text>
 <wire x1="-11" y1="3.6" x2="-10.4" y2="3" width="0.05" layer="51" curve="86.784874"/>
 <wire x1="10" y1="20" x2="11" y2="19" width="0.05" layer="51" curve="-87.205638"/>
 <wire x1="-11" y1="19" x2="-10" y2="20" width="0.05" layer="51" curve="-87.205638"/>
-<rectangle x1="-9.1" y1="1.55" x2="-8.9" y2="3" layer="31"/>
-<rectangle x1="-9.35" y1="-6" x2="-9.15" y2="-4.55" layer="31"/>
-<rectangle x1="-8.6" y1="1.55" x2="-8.4" y2="3" layer="31"/>
-<rectangle x1="-8.85" y1="-6" x2="-8.65" y2="-4.55" layer="31"/>
-<rectangle x1="-8.1" y1="1.55" x2="-7.9" y2="3" layer="31"/>
-<rectangle x1="-8.35" y1="-6" x2="-8.15" y2="-4.55" layer="31"/>
-<rectangle x1="-7.6" y1="1.55" x2="-7.4" y2="3" layer="31"/>
-<rectangle x1="-7.85" y1="-6" x2="-7.65" y2="-4.55" layer="31"/>
-<rectangle x1="-7.1" y1="1.55" x2="-6.9" y2="3" layer="31"/>
-<rectangle x1="-7.35" y1="-6" x2="-7.15" y2="-4.55" layer="31"/>
-<rectangle x1="-6.6" y1="1.55" x2="-6.4" y2="3" layer="31"/>
-<rectangle x1="-6.85" y1="-6" x2="-6.65" y2="-4.55" layer="31"/>
-<rectangle x1="-6.1" y1="1.55" x2="-5.9" y2="3" layer="31"/>
-<rectangle x1="-6.35" y1="-6" x2="-6.15" y2="-4.55" layer="31"/>
-<rectangle x1="-5.6" y1="1.55" x2="-5.4" y2="3" layer="31"/>
-<rectangle x1="-5.85" y1="-6" x2="-5.65" y2="-4.55" layer="31"/>
-<rectangle x1="-5.1" y1="1.55" x2="-4.9" y2="3" layer="31"/>
-<rectangle x1="-5.35" y1="-6" x2="-5.15" y2="-4.55" layer="31"/>
-<rectangle x1="-4.6" y1="1.55" x2="-4.4" y2="3" layer="31"/>
-<rectangle x1="-4.85" y1="-6" x2="-4.65" y2="-4.55" layer="31"/>
-<rectangle x1="-4.1" y1="1.55" x2="-3.9" y2="3" layer="31"/>
-<rectangle x1="-4.35" y1="-6" x2="-4.15" y2="-4.55" layer="31"/>
-<rectangle x1="-3.6" y1="1.55" x2="-3.4" y2="3" layer="31"/>
-<rectangle x1="-3.85" y1="-6" x2="-3.65" y2="-4.55" layer="31"/>
-<rectangle x1="-3.1" y1="1.55" x2="-2.9" y2="3" layer="31"/>
-<rectangle x1="-3.35" y1="-6" x2="-3.15" y2="-4.55" layer="31"/>
-<rectangle x1="-2.6" y1="1.55" x2="-2.4" y2="3" layer="31"/>
-<rectangle x1="-2.85" y1="-6" x2="-2.65" y2="-4.55" layer="31"/>
-<rectangle x1="-2.1" y1="1.55" x2="-1.9" y2="3" layer="31"/>
-<rectangle x1="-2.35" y1="-6" x2="-2.15" y2="-4.55" layer="31"/>
-<rectangle x1="-1.6" y1="1.55" x2="-1.4" y2="3" layer="31"/>
-<rectangle x1="-1.85" y1="-6" x2="-1.65" y2="-4.55" layer="31"/>
-<rectangle x1="-1.1" y1="1.55" x2="-0.9" y2="3" layer="31"/>
-<rectangle x1="-1.35" y1="-6" x2="-1.15" y2="-4.55" layer="31"/>
-<rectangle x1="-0.6" y1="1.55" x2="-0.4" y2="3" layer="31"/>
-<rectangle x1="-0.85" y1="-6" x2="-0.65" y2="-4.55" layer="31"/>
-<rectangle x1="-0.1" y1="1.55" x2="0.1" y2="3" layer="31"/>
-<rectangle x1="-0.35" y1="-6" x2="-0.15" y2="-4.55" layer="31"/>
-<rectangle x1="0.4" y1="1.55" x2="0.6" y2="3" layer="31"/>
-<rectangle x1="0.15" y1="-6" x2="0.35" y2="-4.55" layer="31"/>
-<rectangle x1="0.9" y1="1.55" x2="1.1" y2="3" layer="31"/>
-<rectangle x1="0.65" y1="-6" x2="0.85" y2="-4.55" layer="31"/>
-<rectangle x1="1.4" y1="1.55" x2="1.6" y2="3" layer="31"/>
-<rectangle x1="1.15" y1="-6" x2="1.35" y2="-4.55" layer="31"/>
-<rectangle x1="3.9" y1="1.55" x2="4.1" y2="3" layer="31"/>
-<rectangle x1="3.65" y1="-6" x2="3.85" y2="-4.55" layer="31"/>
-<rectangle x1="4.4" y1="1.55" x2="4.6" y2="3" layer="31"/>
-<rectangle x1="4.15" y1="-6" x2="4.35" y2="-4.55" layer="31"/>
-<rectangle x1="4.9" y1="1.55" x2="5.1" y2="3" layer="31"/>
-<rectangle x1="4.65" y1="-6" x2="4.85" y2="-4.55" layer="31"/>
-<rectangle x1="5.4" y1="1.55" x2="5.6" y2="3" layer="31"/>
-<rectangle x1="5.15" y1="-6" x2="5.35" y2="-4.55" layer="31"/>
-<rectangle x1="5.9" y1="1.55" x2="6.1" y2="3" layer="31"/>
-<rectangle x1="5.65" y1="-6" x2="5.85" y2="-4.55" layer="31"/>
-<rectangle x1="6.4" y1="1.55" x2="6.6" y2="3" layer="31"/>
-<rectangle x1="6.15" y1="-6" x2="6.35" y2="-4.55" layer="31"/>
-<rectangle x1="6.9" y1="1.55" x2="7.1" y2="3" layer="31"/>
-<rectangle x1="6.65" y1="-6" x2="6.85" y2="-4.55" layer="31"/>
-<rectangle x1="7.4" y1="1.55" x2="7.6" y2="3" layer="31"/>
-<rectangle x1="7.15" y1="-6" x2="7.35" y2="-4.55" layer="31"/>
-<rectangle x1="7.9" y1="1.55" x2="8.1" y2="3" layer="31"/>
-<rectangle x1="7.65" y1="-6" x2="7.85" y2="-4.55" layer="31"/>
-<rectangle x1="8.4" y1="1.55" x2="8.6" y2="3" layer="31"/>
-<rectangle x1="8.15" y1="-6" x2="8.35" y2="-4.55" layer="31"/>
-<rectangle x1="8.9" y1="1.55" x2="9.1" y2="3" layer="31"/>
-<rectangle x1="8.65" y1="-6" x2="8.85" y2="-4.55" layer="31"/>
-<rectangle x1="9.15" y1="-6" x2="9.35" y2="-4.55" layer="31" rot="R180"/>
+<rectangle x1="-9.15" y1="1.4" x2="-8.85" y2="3.15" layer="31"/>
 <circle x="4" y="20" radius="3" width="0.05" layer="51"/>
 <text x="0" y="0.635" size="0.762" layer="25" align="center">&gt;Name</text>
 <text x="0" y="-0.635" size="0.762" layer="27" align="center">&gt;Value</text>
+<rectangle x1="-8.15" y1="1.4" x2="-7.85" y2="3.15" layer="31"/>
+<rectangle x1="-7.65" y1="1.4" x2="-7.35" y2="3.15" layer="31"/>
+<rectangle x1="-8.65" y1="1.4" x2="-8.35" y2="3.15" layer="31"/>
+<rectangle x1="-7.15" y1="1.4" x2="-6.85" y2="3.15" layer="31"/>
+<rectangle x1="-6.15" y1="1.4" x2="-5.85" y2="3.15" layer="31"/>
+<rectangle x1="-5.65" y1="1.4" x2="-5.35" y2="3.15" layer="31"/>
+<rectangle x1="-6.65" y1="1.4" x2="-6.35" y2="3.15" layer="31"/>
+<rectangle x1="-5.15" y1="1.4" x2="-4.85" y2="3.15" layer="31"/>
+<rectangle x1="-4.15" y1="1.4" x2="-3.85" y2="3.15" layer="31"/>
+<rectangle x1="-3.65" y1="1.4" x2="-3.35" y2="3.15" layer="31"/>
+<rectangle x1="-4.65" y1="1.4" x2="-4.35" y2="3.15" layer="31"/>
+<rectangle x1="-3.15" y1="1.4" x2="-2.85" y2="3.15" layer="31"/>
+<rectangle x1="-2.15" y1="1.4" x2="-1.85" y2="3.15" layer="31"/>
+<rectangle x1="-1.65" y1="1.4" x2="-1.35" y2="3.15" layer="31"/>
+<rectangle x1="-2.65" y1="1.4" x2="-2.35" y2="3.15" layer="31"/>
+<rectangle x1="-1.15" y1="1.4" x2="-0.85" y2="3.15" layer="31"/>
+<rectangle x1="-0.15" y1="1.4" x2="0.15" y2="3.15" layer="31"/>
+<rectangle x1="0.35" y1="1.4" x2="0.65" y2="3.15" layer="31"/>
+<rectangle x1="-0.65" y1="1.4" x2="-0.35" y2="3.15" layer="31"/>
+<rectangle x1="0.85" y1="1.4" x2="1.15" y2="3.15" layer="31"/>
+<rectangle x1="1.35" y1="1.4" x2="1.65" y2="3.15" layer="31"/>
+<rectangle x1="3.85" y1="1.4" x2="4.15" y2="3.15" layer="31"/>
+<rectangle x1="4.35" y1="1.4" x2="4.65" y2="3.15" layer="31"/>
+<rectangle x1="4.85" y1="1.4" x2="5.15" y2="3.15" layer="31"/>
+<rectangle x1="5.85" y1="1.4" x2="6.15" y2="3.15" layer="31"/>
+<rectangle x1="6.35" y1="1.4" x2="6.65" y2="3.15" layer="31"/>
+<rectangle x1="5.35" y1="1.4" x2="5.65" y2="3.15" layer="31"/>
+<rectangle x1="6.85" y1="1.4" x2="7.15" y2="3.15" layer="31"/>
+<rectangle x1="7.85" y1="1.4" x2="8.15" y2="3.15" layer="31"/>
+<rectangle x1="8.35" y1="1.4" x2="8.65" y2="3.15" layer="31"/>
+<rectangle x1="7.35" y1="1.4" x2="7.65" y2="3.15" layer="31"/>
+<rectangle x1="8.85" y1="1.4" x2="9.15" y2="3.15" layer="31"/>
+<rectangle x1="-9.4" y1="-6.15" x2="-9.1" y2="-4.4" layer="31"/>
+<rectangle x1="-8.4" y1="-6.15" x2="-8.1" y2="-4.4" layer="31"/>
+<rectangle x1="-7.9" y1="-6.15" x2="-7.6" y2="-4.4" layer="31"/>
+<rectangle x1="-8.9" y1="-6.15" x2="-8.6" y2="-4.4" layer="31"/>
+<rectangle x1="-7.4" y1="-6.15" x2="-7.1" y2="-4.4" layer="31"/>
+<rectangle x1="-6.4" y1="-6.15" x2="-6.1" y2="-4.4" layer="31"/>
+<rectangle x1="-5.9" y1="-6.15" x2="-5.6" y2="-4.4" layer="31"/>
+<rectangle x1="-6.9" y1="-6.15" x2="-6.6" y2="-4.4" layer="31"/>
+<rectangle x1="-5.4" y1="-6.15" x2="-5.1" y2="-4.4" layer="31"/>
+<rectangle x1="-4.4" y1="-6.15" x2="-4.1" y2="-4.4" layer="31"/>
+<rectangle x1="-3.9" y1="-6.15" x2="-3.6" y2="-4.4" layer="31"/>
+<rectangle x1="-4.9" y1="-6.15" x2="-4.6" y2="-4.4" layer="31"/>
+<rectangle x1="-3.4" y1="-6.15" x2="-3.1" y2="-4.4" layer="31"/>
+<rectangle x1="-2.4" y1="-6.15" x2="-2.1" y2="-4.4" layer="31"/>
+<rectangle x1="-1.9" y1="-6.15" x2="-1.6" y2="-4.4" layer="31"/>
+<rectangle x1="-2.9" y1="-6.15" x2="-2.6" y2="-4.4" layer="31"/>
+<rectangle x1="-1.4" y1="-6.15" x2="-1.1" y2="-4.4" layer="31"/>
+<rectangle x1="-0.4" y1="-6.15" x2="-0.1" y2="-4.4" layer="31"/>
+<rectangle x1="0.1" y1="-6.15" x2="0.4" y2="-4.4" layer="31"/>
+<rectangle x1="-0.9" y1="-6.15" x2="-0.6" y2="-4.4" layer="31"/>
+<rectangle x1="0.6" y1="-6.15" x2="0.9" y2="-4.4" layer="31"/>
+<rectangle x1="1.1" y1="-6.15" x2="1.4" y2="-4.4" layer="31"/>
+<rectangle x1="3.6" y1="-6.15" x2="3.9" y2="-4.4" layer="31"/>
+<rectangle x1="4.1" y1="-6.15" x2="4.4" y2="-4.4" layer="31"/>
+<rectangle x1="4.6" y1="-6.15" x2="4.9" y2="-4.4" layer="31"/>
+<rectangle x1="5.6" y1="-6.15" x2="5.9" y2="-4.4" layer="31"/>
+<rectangle x1="6.1" y1="-6.15" x2="6.4" y2="-4.4" layer="31"/>
+<rectangle x1="5.1" y1="-6.15" x2="5.4" y2="-4.4" layer="31"/>
+<rectangle x1="6.6" y1="-6.15" x2="6.9" y2="-4.4" layer="31"/>
+<rectangle x1="7.6" y1="-6.15" x2="7.9" y2="-4.4" layer="31"/>
+<rectangle x1="8.1" y1="-6.15" x2="8.4" y2="-4.4" layer="31"/>
+<rectangle x1="7.1" y1="-6.15" x2="7.4" y2="-4.4" layer="31"/>
+<rectangle x1="8.6" y1="-6.15" x2="8.9" y2="-4.4" layer="31"/>
+<rectangle x1="9.1" y1="-6.15" x2="9.4" y2="-4.4" layer="31"/>
 </package>
 </packages>
 <symbols>
@@ -513,12 +513,12 @@ Out</text>
 <wire x1="20.32" y1="53.34" x2="20.32" y2="-45.72" width="0.254" layer="94"/>
 <wire x1="20.32" y1="-45.72" x2="-20.32" y2="-45.72" width="0.254" layer="94"/>
 <wire x1="-20.32" y1="-45.72" x2="-20.32" y2="53.34" width="0.254" layer="94"/>
-<pin name="SPI_SCK/SDIO_CLK" x="22.86" y="50.8" length="short" rot="R180"/>
-<pin name="SPI_MOSI/SDIO_CMD" x="22.86" y="48.26" length="short" rot="R180"/>
+<pin name="SPI_SCK1/SDIO_CLK" x="22.86" y="50.8" length="short" rot="R180"/>
+<pin name="SPI_SDO1/SDIO_CMD" x="22.86" y="48.26" length="short" rot="R180"/>
 <pin name="SDIO_DATA1" x="22.86" y="43.18" length="short" rot="R180"/>
-<pin name="SPI_MISO/SDIO_DATA0" x="22.86" y="45.72" length="short" rot="R180"/>
+<pin name="SPI_SDI1/SDIO_DATA0" x="22.86" y="45.72" length="short" rot="R180"/>
 <pin name="SDIO_DATA2" x="22.86" y="40.64" length="short" rot="R180"/>
-<pin name="SPI_!CS!/SDIO_DATA3" x="22.86" y="38.1" length="short" rot="R180"/>
+<pin name="SPI_!CS1!/SDIO_DATA3" x="22.86" y="38.1" length="short" rot="R180"/>
 <pin name="AUD_MCLK" x="-22.86" y="0" length="short"/>
 <pin name="D0" x="22.86" y="10.16" length="short" rot="R180"/>
 <pin name="SWDCK" x="-22.86" y="5.08" length="short"/>
@@ -531,9 +531,9 @@ Out</text>
 <pin name="A0" x="22.86" y="20.32" length="short" rot="R180"/>
 <pin name="PWM1" x="22.86" y="12.7" length="short" rot="R180"/>
 <pin name="PWM0" x="22.86" y="15.24" length="short" rot="R180"/>
-<pin name="SPI_SCK1" x="22.86" y="33.02" length="short" rot="R180"/>
-<pin name="SPI_MOSI1" x="22.86" y="30.48" length="short" rot="R180"/>
-<pin name="SPI_MISO1" x="22.86" y="27.94" length="short" rot="R180"/>
+<pin name="SPI_SCK" x="22.86" y="33.02" length="short" rot="R180"/>
+<pin name="SPI_SDO" x="22.86" y="30.48" length="short" rot="R180"/>
+<pin name="SPI_SDI" x="22.86" y="27.94" length="short" rot="R180"/>
 <pin name="BATT_VIN/3" x="-22.86" y="-30.48" length="short"/>
 <pin name="RX1" x="22.86" y="0" length="short" rot="R180"/>
 <pin name="TX1" x="22.86" y="2.54" length="short" rot="R180"/>
@@ -569,7 +569,7 @@ Out</text>
 <pin name="G8" x="22.86" y="-35.56" length="short" rot="R180"/>
 <pin name="G9/ADC_D-/CAM_HSYNC" x="22.86" y="-38.1" length="short" rot="R180"/>
 <pin name="G10/ADC_D+/CAM_VSYNC" x="22.86" y="-40.64" length="short" rot="R180"/>
-<pin name="SPI_!CS!1" x="22.86" y="25.4" length="short" rot="R180"/>
+<pin name="SPI_!CS!" x="22.86" y="25.4" length="short" rot="R180"/>
 <text x="-20.32" y="53.848" size="1.778" layer="95">&gt;Name</text>
 <text x="-20.32" y="-48.26" size="1.778" layer="96">&gt;Value</text>
 <pin name="RTC_3V" x="-22.86" y="38.1" length="short"/>
@@ -631,14 +631,14 @@ Out</text>
 <connect gate="J1" pin="RX2" pad="20"/>
 <connect gate="J1" pin="SDIO_DATA1" pad="66"/>
 <connect gate="J1" pin="SDIO_DATA2" pad="68"/>
-<connect gate="J1" pin="SPI_!CS!/SDIO_DATA3" pad="70"/>
-<connect gate="J1" pin="SPI_!CS!1" pad="55"/>
-<connect gate="J1" pin="SPI_MISO/SDIO_DATA0" pad="64"/>
-<connect gate="J1" pin="SPI_MISO1" pad="61"/>
-<connect gate="J1" pin="SPI_MOSI/SDIO_CMD" pad="62"/>
-<connect gate="J1" pin="SPI_MOSI1" pad="59"/>
-<connect gate="J1" pin="SPI_SCK/SDIO_CLK" pad="60"/>
-<connect gate="J1" pin="SPI_SCK1" pad="57"/>
+<connect gate="J1" pin="SPI_!CS!" pad="55"/>
+<connect gate="J1" pin="SPI_!CS1!/SDIO_DATA3" pad="70"/>
+<connect gate="J1" pin="SPI_SCK" pad="57"/>
+<connect gate="J1" pin="SPI_SCK1/SDIO_CLK" pad="60"/>
+<connect gate="J1" pin="SPI_SDI" pad="61"/>
+<connect gate="J1" pin="SPI_SDI1/SDIO_DATA0" pad="64"/>
+<connect gate="J1" pin="SPI_SDO" pad="59"/>
+<connect gate="J1" pin="SPI_SDO1/SDIO_CMD" pad="62"/>
 <connect gate="J1" pin="SWDCK" pad="21"/>
 <connect gate="J1" pin="SWDIO" pad="23"/>
 <connect gate="J1" pin="TX1" pad="17"/>
@@ -698,14 +698,14 @@ Out</text>
 <connect gate="J1" pin="RX2" pad="20"/>
 <connect gate="J1" pin="SDIO_DATA1" pad="66"/>
 <connect gate="J1" pin="SDIO_DATA2" pad="68"/>
-<connect gate="J1" pin="SPI_!CS!/SDIO_DATA3" pad="70"/>
-<connect gate="J1" pin="SPI_!CS!1" pad="55"/>
-<connect gate="J1" pin="SPI_MISO/SDIO_DATA0" pad="64"/>
-<connect gate="J1" pin="SPI_MISO1" pad="61"/>
-<connect gate="J1" pin="SPI_MOSI/SDIO_CMD" pad="62"/>
-<connect gate="J1" pin="SPI_MOSI1" pad="59"/>
-<connect gate="J1" pin="SPI_SCK/SDIO_CLK" pad="60"/>
-<connect gate="J1" pin="SPI_SCK1" pad="57"/>
+<connect gate="J1" pin="SPI_!CS!" pad="55"/>
+<connect gate="J1" pin="SPI_!CS1!/SDIO_DATA3" pad="70"/>
+<connect gate="J1" pin="SPI_SCK" pad="57"/>
+<connect gate="J1" pin="SPI_SCK1/SDIO_CLK" pad="60"/>
+<connect gate="J1" pin="SPI_SDI" pad="61"/>
+<connect gate="J1" pin="SPI_SDI1/SDIO_DATA0" pad="64"/>
+<connect gate="J1" pin="SPI_SDO" pad="59"/>
+<connect gate="J1" pin="SPI_SDO1/SDIO_CMD" pad="62"/>
 <connect gate="J1" pin="SWDCK" pad="21"/>
 <connect gate="J1" pin="SWDIO" pad="23"/>
 <connect gate="J1" pin="TX1" pad="17"/>
@@ -26587,7 +26587,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 <text x="83.82" y="83.82" size="1.27" layer="97" font="vector">7-bit Unshifted I2C Address: 0x71</text>
 <text x="165.862" y="11.43" size="2.54" layer="94" font="vector">Alex Wende</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v10</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v11</text>
 <wire x1="0" y1="78.74" x2="88.9" y2="78.74" width="0.2032" layer="97" style="longdash"/>
 <wire x1="88.9" y1="78.74" x2="147.32" y2="78.74" width="0.2032" layer="97" style="longdash"/>
 <wire x1="147.32" y1="78.74" x2="147.32" y2="35.56" width="0.2032" layer="97" style="longdash"/>
@@ -26858,11 +26858,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <nets>
 <net name="SPI_SCK" class="0">
 <segment>
-<pinref part="J1" gate="J1" pin="SPI_SCK/SDIO_CLK"/>
-<wire x1="231.14" y1="167.64" x2="233.68" y2="167.64" width="0.1524" layer="91"/>
-<label x="233.68" y="167.64" size="1.27" layer="95" font="vector" xref="yes"/>
-</segment>
-<segment>
 <pinref part="J2" gate="J1" pin="SCK"/>
 <wire x1="111.76" y1="43.18" x2="101.6" y2="43.18" width="0.1524" layer="91"/>
 <label x="101.6" y="43.18" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
@@ -26872,13 +26867,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="55.88" y1="43.18" x2="58.42" y2="43.18" width="0.1524" layer="91"/>
 <label x="58.42" y="43.18" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="J1" pin="SPI_SCK"/>
+<wire x1="231.14" y1="149.86" x2="233.68" y2="149.86" width="0.1524" layer="91"/>
+<label x="233.68" y="149.86" size="1.27" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="SPI_COPI" class="0">
-<segment>
-<pinref part="J1" gate="J1" pin="SPI_MOSI/SDIO_CMD"/>
-<wire x1="231.14" y1="165.1" x2="233.68" y2="165.1" width="0.1524" layer="91"/>
-<label x="233.68" y="165.1" size="1.27" layer="95" font="vector" xref="yes"/>
-</segment>
 <segment>
 <pinref part="J2" gate="J1" pin="DI"/>
 <wire x1="111.76" y1="48.26" x2="101.6" y2="48.26" width="0.1524" layer="91"/>
@@ -26889,13 +26884,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="55.88" y1="48.26" x2="58.42" y2="48.26" width="0.1524" layer="91"/>
 <label x="58.42" y="48.26" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="J1" pin="SPI_SDO"/>
+<wire x1="231.14" y1="147.32" x2="233.68" y2="147.32" width="0.1524" layer="91"/>
+<label x="233.68" y="147.32" size="1.27" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="SPI_CIPO" class="0">
-<segment>
-<pinref part="J1" gate="J1" pin="SPI_MISO/SDIO_DATA0"/>
-<wire x1="231.14" y1="162.56" x2="233.68" y2="162.56" width="0.1524" layer="91"/>
-<label x="233.68" y="162.56" size="1.27" layer="95" font="vector" xref="yes"/>
-</segment>
 <segment>
 <pinref part="J2" gate="J1" pin="DO"/>
 <wire x1="111.76" y1="40.64" x2="101.6" y2="40.64" width="0.1524" layer="91"/>
@@ -26906,13 +26901,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="55.88" y1="35.56" x2="58.42" y2="35.56" width="0.1524" layer="91"/>
 <label x="58.42" y="35.56" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="J1" pin="SPI_SDI"/>
+<wire x1="231.14" y1="144.78" x2="233.68" y2="144.78" width="0.1524" layer="91"/>
+<label x="233.68" y="144.78" size="1.27" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="!SD_CS" class="0">
-<segment>
-<pinref part="J1" gate="J1" pin="SPI_!CS!/SDIO_DATA3"/>
-<wire x1="231.14" y1="154.94" x2="233.68" y2="154.94" width="0.1524" layer="91"/>
-<label x="233.68" y="154.94" size="1.27" layer="95" font="vector" xref="yes"/>
-</segment>
 <segment>
 <pinref part="J2" gate="J1" pin="CS"/>
 <wire x1="111.76" y1="50.8" x2="104.14" y2="50.8" width="0.1524" layer="91"/>
@@ -26921,6 +26916,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="104.14" y1="50.8" x2="101.6" y2="50.8" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="53.34" x2="104.14" y2="50.8" width="0.1524" layer="91"/>
 <junction x="104.14" y="50.8"/>
+</segment>
+<segment>
+<pinref part="J1" gate="J1" pin="SPI_!CS!"/>
+<wire x1="231.14" y1="142.24" x2="233.68" y2="142.24" width="0.1524" layer="91"/>
+<label x="233.68" y="142.24" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="!DISP_CS" class="0">
