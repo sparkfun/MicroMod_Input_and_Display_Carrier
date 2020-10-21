@@ -24,6 +24,7 @@ Documentation
 * **[SparkFun_HyperDisplay 4DLCD-320240 Arduino Library](https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary/archive/master.zip)** -  Top level HyperDisplay library for the SparkFun MicroMod Input and Display Carrier Board. This library contains the examples for using the Input and Display Carrier Board.
 * **[SparkFun MicroMod Button Arduino Library](https://github.com/sparkfun/SparkFun_MicroMod_Button_Arduino_Library)** - Example library to allow the user to determine if buttons on the board are pressed.  
 * **[Getting Started with MicroMod](https://learn.sparkfun.com/tutorials/getting-started-with-micromod)** - A tutorial to help you get started with the MicroMod Ecosystem. 
+* **[Designing with MicroMod](https://learn.sparkfun.com/tutorials/designing-with-micromod)** - A tutorial to walk you through the specs of the MicroMod processor and carrier board as well as the basics of incorporating the MicroMod form factor into your own PCB designs.
 
 
 
